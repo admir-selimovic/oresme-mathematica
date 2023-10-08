@@ -25,7 +25,7 @@ Ensure you have the latest version of Mathematica installed. This project relies
 ## Usage
 
 1. Clone the repository to your local machine.
-2. Open the Mathematica notebook `Glypta.nb`.
+2. Open the Mathematica notebook `glypta.nb`.
 3. Run the entire notebook or individual cells as needed.
 4. Monitor the progress dynamically within the notebook.
 
