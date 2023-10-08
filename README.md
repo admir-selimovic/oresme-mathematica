@@ -1,8 +1,9 @@
 # Glypta: 3D Shape Feature Engineering for Machine Learning
 
 ![3D Computer Graphics](https://img.shields.io/badge/3D%20Computer%20Graphics-007ACC) 
+![Computational Geometry](https://img.shields.io/badge/Computational%20Geometry-FF6347)
 ![Geometry Processing](https://img.shields.io/badge/Geometry%20Processing-007ACC) 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-8A2BE2)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-FF4500)
 
 ![Wolfram Mathematica](https://img.shields.io/badge/Wolfram%20Mathematica-DD1100?style=flat&logo=wolfram-mathematica)
 
