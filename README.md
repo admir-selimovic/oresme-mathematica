@@ -9,7 +9,7 @@
 
 
 <div align="center"> 
-  <img src="https://github.com/admir-selimovic/oresme-mathematica/blob/main/img/oresme-mathematica-1.png" width="300">
+  <img src="https://github.com/admir-selimovic/oresme-mathematica/blob/main/img/glypta-2.png" width="300">
 </div>
 
 # Oresme
