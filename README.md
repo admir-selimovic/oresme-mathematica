@@ -1,4 +1,4 @@
-# Glypta: 3D Shape Feature Engineering for Machine Learning
+# Oresme [Wolfram Mathematica]: 3D Shape Feature Engineering for Machine Learning
 
 ![3D Computer Graphics](https://img.shields.io/badge/3D%20Computer%20Graphics-007ACC) 
 ![Computational Geometry](https://img.shields.io/badge/Computational%20Geometry-FF6347)
@@ -9,16 +9,16 @@
 
 
 <div align="center"> 
-  <img src="https://github.com/admir-selimovic/glypta/blob/main/img/glypta.png" width="300">
+  <img src="https://github.com/admir-selimovic/oresme-mathematica/blob/main/img/oresme-mathematica-1.png" width="300">
 </div>
 
-# Glypta
+# Oresme
 
-Glypta is a Mathematica-based project dedicated to advanced data processing and point cloud generation from 3D objects. It is primarily designed to perform feature engineering on 3D shapes, making them ready for machine learning applications.
+Oresme is a Wolfram Mathematica implementation dedicated to advanced data processing and point cloud generation from 3D objects. It is primarily designed to perform feature engineering on 3D shapes, making them ready for machine learning applications.
 
 ## Description
 
-Glypta is designed to analyze defects in datasets, preprocess 3D models, generate point clouds, and perform various mathematical and geometric operations, ensuring that the data are primed for machine learning. on the data. With sophisticated algorithms, the project offers an all-in-one solution to manipulate and extract meaningful information on the shape of 3D models.
+Oresme is designed to analyze defects in datasets, preprocess 3D models, generate point clouds, and perform various mathematical and geometric operations, ensuring that the data are primed for machine learning. on the data. With sophisticated algorithms, the project offers an all-in-one solution to manipulate and extract meaningful information on the shape of 3D models.
 
 ## Features
 
@@ -39,7 +39,7 @@ Ensure you have the latest version of Mathematica installed. This project relies
 ## Usage
 
 1. Clone the repository to your local machine.
-2. Open the Mathematica notebook `glypta.nb`.
+2. Open the Mathematica notebook `oresme.nb`.
 3. Run the entire notebook or individual cells as needed.
 4. Monitor the progress dynamically within the notebook.
 
