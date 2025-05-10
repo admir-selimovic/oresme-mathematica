@@ -1,4 +1,4 @@
-# Oresme [Wolfram Mathematica]: 3D Shape Feature Engineering for Machine Learning
+# Oresme [Wolfram Mathematica]: 3D Shape Feature Engineering
 
 ![3D Computer Graphics](https://img.shields.io/badge/3D%20Computer%20Graphics-007ACC) 
 ![Computational Geometry](https://img.shields.io/badge/Computational%20Geometry-FF6347)
